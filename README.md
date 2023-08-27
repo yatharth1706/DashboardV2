@@ -1,8 +1,5 @@
-# React + Vite
+# Dashboard | Money Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is part of my youtube channel. Where i will be teaching how to create this beautiful looking dashboard with the help of Reactjs, Framer motion, tailwind css and chartjs.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="1487" alt="Screenshot 2023-08-27 at 5 36 11 PM" src="https://github.com/yatharth1706/DashboardV2/assets/32243289/9141a681-b6b8-4a6c-958a-8d57e018e777">
